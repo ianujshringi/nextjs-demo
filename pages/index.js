@@ -8,7 +8,6 @@ export default function Home() {
       <Head>
         <title>My Blog Page</title>
         <meta name="keywords" content="blogs, nexjs, blog, javascript" />
-        <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className={styles.main}>
